@@ -130,6 +130,13 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  stylesheets:[
+    {
+      href: 'https://wiki.owlando.io/custom.css',
+      type: 'text/css',
+
+    }
+  ]
 };
 
 module.exports = config;

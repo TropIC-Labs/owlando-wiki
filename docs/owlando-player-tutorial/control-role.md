@@ -1,10 +1,15 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 ---
 
 # Control role
 
 
 
-## 如何控制角色
 
+## how to control the character
+
+ - W A S D controls character movement
+ - space jump
+ - mouse movement view
+ - B Back to the main interface

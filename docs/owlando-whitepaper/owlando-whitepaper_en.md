@@ -5,125 +5,86 @@ sidebar_label: Owlando whitepaper(EN)
 sidebar_position: 1
 ---
 
-## 1. 引言
-Owlando是一个基于Web3D与ERC4907的NFT社交游戏，旨在创造一个全新的游戏生态系统。在Owlando中，玩家可以创建自己的游戏内容，并将其转化为NFT。这些NFT可以作为玩家的游戏创意的数字证书，并且可以在游戏内和区块链上进行交易。
-Owlando提供了一个UGC游戏系统和游戏内容平台，允许玩家使用游戏编辑器来创建自己的游戏内容，并将其发布到游戏内容平台上。这些游戏内容可以被其他玩家购买和使用，同时也可以被转化为NFT，以便在区块链上进行交易。
-Owlando的核心功能是保护用户的知识产权。在Owlando中，玩家可以将自己的游戏创意转化为NFT，并通过智能合约进行保护。这确保了玩家的游戏创意不会被盗用或复制，并且可以被转化为有价值的数字资产。
-另一个Owlando的目标是为玩家提供多元化的收入来源。玩家可以通过游戏内容的销售和NFT的交易来获得收入。此外，Owlando还将提供一些特殊的游戏活动和比赛，这些活动和比赛将为玩家提供更多的收入机会。
-总之，Owlando是一个具有创新性和前瞻性的游戏生态系统，将游戏和区块链技术相结合。它提供了一个安全、公平和可持续的游戏环境，为全球游戏爱好者带来独特的社交游戏体验，并为他们提供了一个全新的多元化的收入来源。我们相信，Owlando将成为一个引领游戏产业发展的Killer APP，为投资人和用户创造长期价值。
-## 2. 背景
-随着区块链和加密货币技术的不断演进，NFT逐渐成为数字资产领域的新趋势，并在游戏行业中得到广泛应用。NFT的独特身份和所有权属性可以让玩家真正拥有自己的游戏资产，并在游戏之外进行交易和销售，这为游戏产业带来了新的可能性。然而，一些游戏的停运可能会导致玩家的游戏资产和情感受到损失，这使得玩家需要考虑自己游戏资产的安全和价值保护问题。在这样的背景下，Owlando利用区块链技术和NFT的特性，为玩家提供一个更加安全、可信和有价值的游戏平台，让玩家在游戏和区块链领域都能够获得更好的体验和回报。
+## 1. Introduction
+Owlando is a social game based on Web3D and ERC4907 NFTs, aimed at creating a new game ecosystem. In Owlando, players can create their own game content and turn it into NFTs. These NFTs can serve as digital certificates for players' game ideas and can be traded in-game and on the blockchain. 
 
-## 3. 目标和目的
-Owlando 的目标是成为一个基于Web3D 与ERC4907的NFT社交游戏平台，为玩家提供一个创新的游戏体验和新的收入来源。具体目的包括：
-### 3.1. 提供安全、可信和有价值的游戏平台
-Owlando 将利用区块链技术和NFT，为玩家提供一个更加安全、可信和有价值的游戏平台。通过保护游戏资产的所有权和使用权，玩家可以真正拥有自己的游戏资产，并在游戏之外进行交易和销售。
+Owlando provides a user-generated content (UGC) system and a game content platform, allowing players to use the game editor to create their own game content and publish it to the game content platform. These game content can be purchased and used by other players and can also be turned into NFTs for trading on the blockchain. 
 
-### 3.2. 提供UGC游戏系统，鼓励用户创造优质内容
-Owlando 将提供一个UGC游戏系统，允许用户创作自己的游戏内容，并与其他用户分享和交流。为了鼓励玩家创造更优质的游戏内容，我们将加入Token激励机制，让玩家构建更优质的内容，优质内容可以赚取更多 Owlando Token。
+Protecting users' intellectual property rights is a key feature of Owlando. In Owlando, players can turn their game ideas into NFTs and protect them through smart contracts. This ensures that players' game ideas are not stolen or copied, and can be turned into valuable digital assets. 
 
-### 3.3. 提供社交功能，促进玩家交流和合作
-Owlando 将提供强大的社交功能，包括朋友列表、聊天和社交媒体分享等。这些功能将帮助用户建立社交网络，并促进交流和合作。
+Another goal of Owlando is to provide players with diverse sources of income. Players can earn income through the sale of game content and trading of NFTs. In addition, Owlando will also provide special game activities and contests, which will offer players more opportunities for income. 
 
-### 3.4. 提供多样化的游戏类型和收益模式
-Owlando 将提供多种游戏类型和收益模式，包括NFT交易和销售、游戏收益、广告收益等。这将帮助平台提高收益和用户粘性。
+In summary, Owlando is an innovative and forward-looking game ecosystem that combines gaming and blockchain technology. It provides a secure, fair, and sustainable gaming environment, bringing unique social gaming experiences to global gaming enthusiasts, and providing them with a new and diversified source of income. We believe that Owlando will become a Killer APP leading the development of the gaming industry, creating long-term value for investors and users.
 
-### 3.5. 提高游戏的可持续性和用户满意度
-通过以上措施，Owlando 将提高游戏的可持续性和用户满意度，为玩家提供一个更加有价值和令人愉悦的游戏体验。
+## 2. Background
+With the continuous evolution of blockchain and cryptocurrency technology, NFTs have become a new trend in the digital asset field and have been widely used in the gaming industry. The unique identity and ownership attributes of NFTs allow players to truly own their game assets and conduct transactions and sales outside of the game, bringing new possibilities to the gaming industry. However, the closure of some games may cause players to lose their game assets and emotional attachment, making players consider the security and value protection of their game assets. In this context, Owlando uses blockchain technology and the characteristics of NFTs to provide players with a more secure, trustworthy, and valuable gaming platform, allowing players to have better experiences and returns in both gaming and blockchain domains.
 
-## 4. 分析
-Owlando 社交游戏平台将基于Web3D 技术和ERC4907标准来实现。通过这些技术，我们可以保护用户的游戏创意和设计，并将它们转化为独特的NFT资产，这些资产可以在平台上交易和出售。此外，我们将提供一个UGC游戏系统，允许用户创作自己的游戏内容，并与其他用户分享和交流。
-当前游戏行业killer app现象明显，好的高质量的游戏能脱颖而出。我们相信在Web3D引擎中可以诞生优质的社交游戏。
-Owlando 将提供一个创新的游戏体验，通过NFT和区块链技术，保护游戏资产的所有权和使用权，让玩家可以真正拥有自己的游戏资产，并在游戏之外进行交易和销售。
-此外，苹果公司已经开始推行WebGPU标准，这将使Web3D游戏在苹果设备上的性能和体验得到极大提升。Owlando 作为一个基于Web3D的NFT社交游戏，将在苹果设备上有着更加出色的表现和用户体验。
-Owlando 的UGC游戏系统和Token激励机制将鼓励玩家创造更优质的游戏内容，并奖励他们的创造。同时，Owlando 提供强大的社交功能，促进玩家交流和合作。这将帮助玩家们建立社交网络，扩大社交圈子，提高游戏的社交性和趣味性。
-总之，Owlando 有着很大的发展潜力和吸引力
+## 3. Goal and Purpose
+The goal of Owlando is to become a Web3D and ERC4907 NFT-based social game platform that provides players with innovative gaming experiences and a new source of income. The specific objectives include:
 
-## 5. 解决方案
-Owlando 的解决方案将包括以下组成部分：
-### 5.1. NFT资产
-Owlando 将基于ERC-4907标准，为用户的游戏创意和设计创建独特的NFT资产。这些资产将记录用户的游戏创意和设计，并提供安全的NFT交易和租赁平台。
-### 5.2. 游戏平台
-Owlando的游戏平台将基于Web3D 技术构建，并提供高质量的游戏。我们将提供多种游戏类型，包括单人游戏和多人游戏，并通过UGC系统支持用户创建和分享自己的游戏内容。
+### 3.1. Provide a secure, trustworthy, and valuable gaming platform
+Owlando will use blockchain technology and NFTs to provide players with a more secure, trustworthy, and valuable gaming platform. By protecting the ownership and usage rights of game assets, players can truly own their game assets and conduct transactions and sales outside of the game.
 
-### 5.3. UGC游戏系统
-Owlando将提供一个UGC游戏系统，允许用户创作自己的游戏内容，并与其他用户分享和交流。用户可以使用平台提供的工具和资产来创建自己的游戏，或者使用自己创建的NFT资产来增强游戏内容。UGC游戏内容将由用户自行管理，并可以在平台上展示和出售。
+### 3.2. Provide a UGC gaming system and encourage users to create quality content
+Owlando will provide a UGC gaming system that allows users to create their own game content and share and communicate with other users. To encourage players to create better game content, we will introduce Token incentive mechanisms, allowing players to build better content that can earn more Owlando Tokens.
 
-### 5.4. 社交功能
-Owlando 将提供强大的社交功能，包括朋友列表、聊天和社交媒体分享等。这些功能将帮助用户建立社交网络，并促进交流和合作。
+### 3.3. Provide social functions and promote player interaction and collaboration
+Owlando will provide strong social features, including friend lists, chat, and social media sharing. These features will help users build social networks and promote interaction and collaboration.
 
-## 6. 我们的市场和竞争优势
-Owlando平台将面向全球游戏爱好者市场，特别是那些喜欢创造和分享游戏内容的玩家。我们相信，通过提供一个安全、透明和创新的游戏生态系统，我们将能够吸引越来越多的玩家加入我们的社区。
-我们的竞争优势将包括以下几个方面：
-### 6.1. 基于NFT的内容保护
-Owlando采用ERC-4907 NFT协议的主要原因是为了保护用户的创意和内容。ERC4907协议具有多种功能，其中包括NFT租赁和NFT销售等功能。这些功能将帮助用户保护自己的游戏创意和设计。通过NFT租赁，Owlando的用户可以暂时将自己的创意游戏资产出租给其他用户，从而实现共享和合作。同时，租赁也可以帮助用户获取更多的收入。此外，通过销售NFT，用户可以将自己的创意资产转换为Owlando Token，从而实现更广泛的资产流通和交易。
-此外，ERC4907协议还具有可扩展性和互操作性，这使得它可以与其他NFT协议和平台进行无缝集成。这为Owlando提供了更多的灵活性和自由度，可以更好地满足用户的需求和期望。
-Owlando选择采用ERC4907 NFT协议是为了保护用户的创意和内容，并且可以利用协议的多种功能和特性，为用户提供更好的体验和价值。
+### 3.4. Provide diversified game types and revenue models
+Owlando will provide a variety of game types and revenue models, including NFT trading and sales, game revenue, advertising revenue, etc. This will help the platform increase revenue and user stickiness.
 
-### 6.2. UGC系统与游戏平台
-Owlando UGC（用户生成内容）系统是一个基于Web3D游戏引擎的社交UGC游戏构建平台，它允许用户协同创建游戏场景，释放团队创意。该系统势如下优势：
-#### 安全性和防伪性：
-Owlando采用ERC 4907 NFT协议，确保用户创建的数字资产是独一无二的，并且可以被追踪和证明其所有权。这可以有效保护用户的创意和内容不被盗版或非法复制。
-#### 基于社交的创意共享构建：
-Owlando UGC系统允许用户共享自己的数字创意资产，邀请他人共同构建游戏场景，从而实现共同创作和合作。这可以帮助用户提高创作效率和创意水平。
-#### 跨平台特性：
-Owlando UGC系统的基于Web3D游戏引擎的构建平台确实具备跨平台的优势，这使得用户可以在任何设备上使用该平台来创建和分享游戏内容。这意味着用户不必受制于特定的设备或操作系统，从而获得更大的灵活性和便利性。同时，跨平台特性也为创意游戏构建者提供了更广泛的市场和机会，使得他们能够更轻松地将自己的游戏作品推向全球市场。
-#### 可扩展性和互操作性：
-Owlando采用ERC 4907 NFT协议+Web3D UGC 设计，具有可扩展性和互操作性。这使得它可以与其他NFT协议和平台进行无缝集成，从而提高了系统的灵活性和自由度。
+### 3.5. Improve the sustainability and user satisfaction of the game
+Through the above measures, Owlando will improve the sustainability and user satisfaction of the game, providing players with a more valuable and enjoyable gaming experience.
 
-## 7. 我们的团队和发展计划
-Owlando的创始人和核心团队都是来自游戏和区块链领域的专业人士，拥有丰富的行业经验和技术能力。我们相信，我们的团队将能够成功实现Owlando的发展计划，并为全球玩家提供一个独特的社交游戏体验。
+## 4. Analysis
+The Owlando social gaming platform will be based on Web3D technology and the ERC4907 standard. With these technologies, we can protect users' game ideas and designs and turn them into unique NFT assets that can be traded and sold on the platform. Additionally, we will provide a UGC gaming system that allows users to create their own game content and share and communicate with other users.
 
-### 7.1. 我们的团队
-Founder Zisu：作为黑客松冠军和全栈工程师，拥有8年的开发经验。他熟练掌握多种编程语言和技术，对产品开发有着深刻的理解和经验，是团队的技术领袖和创新推动者。
-Co-Founder Jett：作为核心开发工程师，拥有20年的开发经验和硕士学位。他在软件开发方面有着丰富的经验和深入的理解，能够解决各种技术难题，是团队的技术支柱和技术实现者。
-Co-Founder Shulin：作为COO，曾服务于法资投行，具有丰富的行业营销经验和硕士学位。她善于分析市场和用户需求，能够提出有效的市场营销策略，是团队的业务推动者和市场拓展者。
+In the current gaming industry, the phenomenon of the killer app is evident, and good high-quality games can stand out. We believe that high-quality social games can emerge in Web3D engines.
 
-### 7.2. 我们的发展计划将包括以下几个阶段：
+Owlando will provide an innovative gaming experience, protecting the ownership and usage rights of game assets through NFT and blockchain technology. This allows players to truly own their game assets and conduct transactions and sales outside the game.
 
-#### 7.2.1. 阶段一：平台开发和测试阶段
-在这个阶段，我们将集中精力开发和测试平台的基础功能，包括游戏内容平台、交易平台和UGC系统。我们将邀请一些游戏爱好者和区块链技术专家参与测试，以确保平台的稳定性和可靠性。
+Additionally, Apple has begun to promote the WebGPU standard, which will greatly improve the performance and experience of Web3D games on Apple devices. Owlando, as a Web3D-based NFT social game, will have outstanding performance and user experience on Apple devices.
 
-#### 7.2.2. 阶段二：上线和推广阶段
-在这个阶段，我们将正式上线平台，并开始推广和宣传。我们将利用社交媒体和各种营销渠道，向全球玩家推广Owlando平台，并邀请他们加入我们的社区。
+Owlando's UGC gaming system and token incentive mechanism will encourage players to create better game content and reward their creativity. Meanwhile, Owlando provides powerful social functions that promote player communication and cooperation. This will help players build social networks, expand their social circles, and enhance the social and entertainment aspects of the game.
 
-#### 7.2.3. 阶段三：功能完善和拓展阶段
-在这个阶段，我们将继续完善和拓展平台的功能，包括增加新的游戏模式、引入更多的数字货币和交易方式、优化用户体验等。我们将根据用户反馈和市场需求，不断改进和创新平台的功能和服务。
+In summary, Owlando has great development potential and appeal.
 
-#### 7.2.4. 阶段四：全球拓展阶段
-在这个阶段，我们将开始进军全球市场，并在不同的国家和地区建立本地化的社区和合作伙伴关系。我们将与当地的游戏爱好者、数字货币交易所和区块链技术公司合作，推广和发展Owlando平台。
+## 5. Solution
+Owlando's solution will include the following components:
 
-## 8. 运营和收益模式
-Owlando 的收益模式将基于以下几个方面：
+### 5.1. NFT Assets
+Owlando will create unique NFT assets for users' game ideas and designs based on the ERC-4907 standard. These assets will record users' game ideas and designs and provide a secure NFT trading and leasing platform.
 
-### 8.1. NFT交易和销售
-用户可以在平台上交易和销售自己创建的NFT资产。Owlando 将收取一定比例的手续费，作为平台的收益来源。
+### 5.2. Gaming Platform
+Owlando's gaming platform will be built on Web3D technology and provide high-quality games. We will offer various game types, including single-player and multiplayer games, and support users in creating and sharing their own game content through the UGC system.
 
-### 8.2. 游戏收益
-Owlando 将提供多种游戏类型，并根据游戏的受欢迎程度和用户交易情况收取一定比例的游戏收益。这将帮助平台提高收益和用户粘性。
+### 5.3. UGC Gaming System
+Owlando will provide a UGC gaming system that allows users to create their own game content and share and communicate with other users. Users can use the tools and assets provided by the platform to create their own games or enhance game content with their own created NFT assets. UGC game content will be managed by users themselves and can be showcased and sold on the platform.
 
-### 8.3. 广告收益
-Owlando 将提供一定数量的广告空间，并向广告商提供广告投放服务。这将成为平台的另一个收益来源。
+### 5.4. Social Functions
+Owlando will provide powerful social functions, including friend lists, chat, and social media sharing. These functions will help users build social networks and promote communication and cooperation.
 
-## 9. 生态激励
-Owlando 基于代币激励，鼓励用户创造更高质量的游戏内容和活跃平台，给予用户以下几个方面的激励：
+## 6. Our Market and Competitive Advantages
+The Owlando platform will target the global market of game enthusiasts, especially players who enjoy creating and sharing game content. We believe that by providing a secure, transparent, and innovative gaming ecosystem, we will be able to attract more and more players to our community.
+Our competitive advantages will include the following aspects:
 
-### 9.1. 创造内容奖励
-Owlando的生态系统需要用户创造有吸引力的游戏内容来吸引其他用户的参与和购买。因此，可以设计一个奖励机制，为用户创建的内容支付一定数量的Token，该数量将基于内容的质量和吸引力而定。
+### 6.1. Content Protection Based on NFTs
+The main reason why Owlando uses the ERC-4907 NFT protocol is to protect users' creativity and content. The ERC4907 protocol has various functions, including NFT leasing and NFT sales, which can help users protect their game ideas and designs. Through NFT leasing, Owlando's users can temporarily lease their creative game assets to other users, enabling sharing and collaboration. Leasing can also help users generate more income. Furthermore, by selling NFTs, users can convert their creative assets into Owlando Tokens, which allows for broader circulation and trading of assets.
+In addition, the ERC4907 protocol is scalable and interoperable, allowing for seamless integration with other NFT protocols and platforms. This provides Owlando with more flexibility and freedom to better meet users' needs and expectations.
+Owlando chose to use the ERC4907 NFT protocol to protect users' creativity and content, and to take advantage of protocol functions and features to provide users with a better experience and value.
 
-### 9.2. 参与奖励
-用户对游戏生态系统的参与也应该被奖励。例如，当用户玩游戏、购买游戏内容或参加特殊活动时，他们可以获得一定数量的Token。
+### 6.2. UGC System and Game Platform
+The Owlando UGC (User-Generated Content) system is a social UGC game-building platform based on Web3D game engines that allows users to collaboratively create game scenes and unleash team creativity. The system has the following advantages:
 
-### 9.3. 推广奖励
-用户在社交媒体上分享游戏或游戏内容的链接可以获得Token奖励。此外，当他们成功地推荐其他人参加Owlando生态系统时，也可以获得Token奖励。
+#### Security and Anti-Counterfeiting
+Owlando uses the ERC 4907 NFT protocol to ensure that the digital assets created by users are unique and can be traced and proven for ownership. This effectively protects users' creative content from piracy and illegal copying.
 
-### 9.4. 投票奖励
-Owlando生态系统可能会有一些重要的决策需要用户的投票。这些决策可能包括游戏内容的审核、生态系统的升级或激励机制的调整。因此，用户可以获得一定数量的Token来进行内容投票，获取投票奖励。
+#### Social-based Creative Sharing and Building
+The Owlando UGC system allows users to share their digital creative assets and invite others to collaborate in building game scenes, which helps improve creative efficiency and levels.
 
-## 10. 代币经济
+#### Cross-Platform Features
+The Owlando UGC system's web-based game engine building platform is cross-platform, allowing users to create and share game content on any device. This means that users are not limited to specific devices or operating systems, providing greater flexibility and convenience. Cross-platform features also provide creative game builders with a wider market and opportunities, making it easier for them to bring their game masterpieces to the global market.
 
-## 11. 安全和隐私
-Owlando 将注重保护用户的安全和隐私。我们将采取各种措施来保护用户的账户和交易安全，包括加密技术和多重认证等。此外，我们将严格遵守相关隐私法律法规，并保护用户的个人信息不受侵犯。
-
-## 12. 结论
-Owlando是一个基于Web3D 与ERC4907的NFT社交游戏平台，旨在为游戏爱好者和游戏创作者提供一个独特的社交游戏体验，保护他们的知识产权，并为他们提供一个新的收入来源。我们相信，通过我们的努力和创新，Owlando 将成为全球Web3.0游戏行业的Killer APP。
+#### Scalability and Interoperability
+Owlando's use of ERC 4907 NFT protocol + Web3D UGC design is scalable and interoperable, allowing for seamless integration with other NFT protocols and platforms to enhance system flexibility and freedom.
