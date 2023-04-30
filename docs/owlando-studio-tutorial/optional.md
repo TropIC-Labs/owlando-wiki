@@ -10,3 +10,4 @@ sidebar_position: 3
 - The steering wheel controls the character's height by moving up and down.
 - Pressing ESC releases the mouse cursor and allows the user to select a model.
 - The right mouse button triggers the interaction menu.
+  - <img src="/img/owlando/option1.png" alt="Image" style={{width: "200", height: "100%"}} />
